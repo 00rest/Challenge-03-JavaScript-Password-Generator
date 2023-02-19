@@ -10,7 +10,7 @@ Website is optimized to accessibility standards using semantic html elements.
 ```
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/images/passGen.jpg)
+![The Password generator webpage.](./Assets/images/passGen.jpg)
 
 
 [Password Generator Website](https://00rest.github.io/Challenge-03-JavaScript-Password-Generator/)
