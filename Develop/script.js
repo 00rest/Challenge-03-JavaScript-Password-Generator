@@ -30,7 +30,7 @@ function doebatsa(){
     goodBye();
 
   //Checking for valid number length
-  }else if(length > 8 && length < 128){
+  }else if(length > 7 && length < 128){
     options();
     var almostThere = a.concat(b).concat(c).concat(d);
     
